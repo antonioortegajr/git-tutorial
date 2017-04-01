@@ -6,4 +6,6 @@ We take in over 700 data sets from Multiple Listing Services(so housing data)and
 
 These data sets are all different and subject to change so normalization is an ongoing challenge.
 
-We are in downtown Eugene and have about 50 employees currently, but are looking to expand.
+We are in downtown Eugene and have about 50 employees currently and are looking to expand.
+
+https://www.idxbroker.com/careers
