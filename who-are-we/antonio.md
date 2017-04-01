@@ -1,4 +1,4 @@
-My name is Anotnio and I work as the Developer Partner Manager at IDX Broker. I help onboard new partners and integrations that will consume our service.
+My name is Antonio and I work as the Developer Partner Manager at IDX Broker. I help onboard new partners and integrations that will consume our service.
 
 So I deal with developers all day.
 
